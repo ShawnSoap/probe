@@ -5,6 +5,9 @@ import com.shawn.dev.web.http.HttpRequestMethod;
 import java.lang.reflect.Method;
 
 /**
+ * Represent a mapping from a path pattern and HTTP request method to
+ * certain method of an object that can handle the
+ *
  * Created by Qijun on 2016/1/25.
  */
 public class Router {
